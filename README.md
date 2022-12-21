@@ -1,4 +1,4 @@
-## Html CSS Glowing Text Animation Effects
+## HTML CSS Glowing Text Animation Effects
 
 A nice CSS effect for navigating a menu.
 
@@ -11,5 +11,7 @@ This was taken from the Online Tutorials [videos](https://www.youtube.com/watch?
 I hope you like it, code it and [watch it](https://gustavolando.github.io/otHTMLCSSGlowingTextAnimationEffects/)!
 
 ![Html CSS Glowing Text Animation Effects](https://gustavolando.github.io/otHTMLCSSGlowingTextAnimationEffects/Html%20CSS%20Glowing%20Text%20Animation%20Effects%201.png)
+
+![Html CSS Glowing Text Animation Effects](https://gustavolando.github.io/otHTMLCSSGlowingTextAnimationEffects/Html%20CSS%20Glowing%20Text%20Animation%20Effects%202.png)
 
 Here is the demo link:  https://gustavolando.github.io/otHTMLCSSGlowingTextAnimationEffects/
